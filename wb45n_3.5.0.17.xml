@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://github.com/LairdCP" name="origin"/>
+  <remote fetch="https://github.com/dsiganos" name="origin"/>
   
   <project groups="default" name="wb-event_mon.git" path="wb/examples/eventmon/" remote="origin" revision="8421cc6876bf8948fa30057628cdb6c12ba76ef5"/>
   <project groups="default" name="wb-buildroot.git" path="wb/buildroot" remote="origin" revision="6a164b4ed41ccc3f09f796f6923b0c2d54eb26d2"/>
